@@ -4,8 +4,9 @@ namespace EF6CodeFirstDemo
 {
     public class SchoolContext : DbContext
     {
-        public SchoolContext() : base("SchoolDB-EF6CodeFirst")
+        public SchoolContext() : base("EFCore")
         {
+            //string con = SchoolContext().Database.Connection.ToString();
             Database.SetInitializer<SchoolContext>(new SchoolDBInitializer());
         }
 
