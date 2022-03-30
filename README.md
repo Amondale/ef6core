@@ -1,5 +1,6 @@
-# EF6-Code-First-Demo
-Entity Framework 6 Code-First Demo Project
+# EF6-Code-First-Demo-of-Conversion-to-EFCore
+Entity Framework 6 Code-First Demo Project Migrated to Entity Framework Core
+
 
 ## Modifications made to modernize
 
