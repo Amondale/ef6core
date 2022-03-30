@@ -1,6 +1,8 @@
 # EF6-Code-First-Demo-of-Conversion-to-EFCore
 Entity Framework 6 Code-First Demo Project Migrated to Entity Framework Core
 
+Reinstated into .NET 4.8 Project [here](https://github.com/Amondale/ef6dbfirst)
+
 
 ## Modifications made to modernize
 
